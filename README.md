@@ -1,2 +1,2 @@
-# Trabalho-de-Estatística
-Trabalho sobre Probabilidades, emostragem e estimações - Pesquisa Nacional por Amostra de Domicílios - 2015
+# Curso-de-Estatística 
+Probabilidades, emostragem e estimações - Pesquisa Nacional por Amostra de Domicílios - 2015
